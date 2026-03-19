@@ -1,8 +1,8 @@
-API de Gerenciamento de Pedidos | Jitterbit Challenge
+API de Gerenciamento de Pedidos
 
-Este repositório contém a minha solução para o desafio técnico prático da Jitterbit (vaga de Analista de Sistemas Jr.). O objetivo central foi construir uma API RESTful para o gerenciamento de pedidos (CRUD completo), mas com um detalhe crucial: implementar uma camada de Data Mapping para tratar e transformar o payload recebido antes de persisti-lo no banco de dados.
+O objetivo central foi construir uma API RESTful para o gerenciamento de pedidos (CRUD completo), implementar camada de Data Mapping para tratar e transformar o payload recebido antes de persisti-lo no banco de dados.
 
-Para facilitar a avaliação do time técnico, fiz o deploy da aplicação e disponibilizei a documentação interativa.
+Para facilitar fiz o deploy da aplicação e disponibilizei a documentação interativa.
 
 [CLIQUE AQUI PARA TESTAR A API (SWAGGER) EM PRODUÇÃO](https://api-jitterbit-andre.onrender.com/)
 
@@ -113,5 +113,5 @@ npm start
 Acesse no navegador:
 Abra http://localhost:3000 (ser redirecionad automaticamente para o Swagger).
 
-Feito com muita dedicação por André Silva ☕
-[Conecte-se comigo no LinkedIn!](https://www.linkedin.com/in/barretosilva/)
+Feito por André Silva ☕
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/barretosilva/)
