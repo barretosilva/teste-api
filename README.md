@@ -87,8 +87,8 @@ Se preferir testar o código localmente
 
 Clone este repositório:
 
-git clone [https://github.com/barretosilva/jitterbit-teste-api.git](https://github.com/barretosilva/jitterbit-teste-api.git)
-cd jitterbit-teste-api
+git clone [https://github.com/barretosilva/jitterbit-teste-api.git](https://github.com/barretosilva/teste-api.git)
+cd teste-api
 
 Instale as dependências:
 
